@@ -14,4 +14,4 @@ matplotlib
 reportlab
 fpdf
 sentence-transformers
-torch==2.1.0
+torch
